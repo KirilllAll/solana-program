@@ -1,0 +1,4 @@
+node_modules/
+src/program/target/
+dist/
+.DS_Store
